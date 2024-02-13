@@ -1,0 +1,10 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+#increase button{
+
+    text-align: center; 
+    background-color: aqua;  
+}
